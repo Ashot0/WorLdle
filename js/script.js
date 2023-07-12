@@ -89,12 +89,3 @@ function plyam() {
 function reloading() {
 	document.location.reload();
 }
-
-
-
-
-
-
-
-
-
